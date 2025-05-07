@@ -1,2 +1,0 @@
-- **Reference / Inspiration ⬇️**
-  - [text](link)
